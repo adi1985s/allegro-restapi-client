@@ -20,10 +20,10 @@ include 'lib/exception/SessionException.php';
 // Allegro REST API credentials
 // You have to register your application before you start
 // Visit https://credentials.allegroapi.io/
-define('APP_URL',			'http://localhost/***/');
-define('CLIENT_ID',			'52f***8cc');
-define('CLIENT_SECRET',		'oLk***b1E');
-define('API_KEY',			'eyJ***k4=');
+define('APP_URL', 		'http://localhost/***/');
+define('CLIENT_ID', 	'52f***8cc');
+define('CLIENT_SECRET', 'oLk***b1E');
+define('API_KEY', 		'eyJ***k4=');
 
 // GET vars
 $OauthCode = isset($_GET['code']) ? $_GET['code'] : null;
