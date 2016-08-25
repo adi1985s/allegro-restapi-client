@@ -23,7 +23,7 @@ include 'lib/exception/SessionException.php';
 define('APP_URL',			'http://localhost/***/');
 define('CLIENT_ID',			'52f***8cc');
 define('CLIENT_SECRET',		'oLk***b1E');
-define('API_KEY', 			'eyJ***k4=');
+define('API_KEY',			'eyJ***k4=');
 
 // GET vars
 $OauthCode = isset($_GET['code']) ? $_GET['code'] : null;
