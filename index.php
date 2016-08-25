@@ -22,7 +22,7 @@ include 'lib/exception/SessionException.php';
 // Visit https://credentials.allegroapi.io/
 define('APP_URL',			'http://localhost/***/');
 define('CLIENT_ID',			'52f***8cc');
-define('CLIENT_SECRET', 	'oLk***b1E');
+define('CLIENT_SECRET',		'oLk***b1E');
 define('API_KEY', 			'eyJ***k4=');
 
 // GET vars
